@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api-blog-recode", "api-blog-recode\api-blog-recode.csproj", "{6A64A5C9-18F6-454E-85CD-9A98ED14E0DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A64A5C9-18F6-454E-85CD-9A98ED14E0DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A64A5C9-18F6-454E-85CD-9A98ED14E0DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A64A5C9-18F6-454E-85CD-9A98ED14E0DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A64A5C9-18F6-454E-85CD-9A98ED14E0DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E78475E-551D-4162-A3A5-5BE4B3212644}
+	EndGlobalSection
+EndGlobal
